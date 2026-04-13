@@ -247,9 +247,5 @@ Six analytical queries are included in `analysis_queries.sql`:
 ## 👤 Author
 
 **Avinash Jha**  
-M.Sc. Analytics — Tata Institute of Social Sciences, Mumbai  
-B.Sc. Statistics (Hons.) — Kolhan University
-
-
 
 ---
