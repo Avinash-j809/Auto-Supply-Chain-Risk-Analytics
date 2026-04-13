@@ -52,19 +52,19 @@ An automobile OEM sources components from 300+ suppliers across 8 countries. The
 > 📂 **[View Full Interactive Dashboard](https://drive.google.com/file/d/1Nq6HUuBHpMj4bzZjjiM650qlRasFYvNp/view?usp=sharing)**
 
 ### Page 1 — Executive Summary
-![Executive Summary](<img width="1119" height="629" alt="image" src="https://github.com/user-attachments/assets/20b6e27a-7cd9-4af5-a6b4-4186adbe502d" />
+![Executive Summary](screenshots/page1_executive_summary.png
 )
 
 ### Page 2 — Supplier Scorecard
-![Supplier Scorecard](<img width="958" height="544" alt="image" src="https://github.com/user-attachments/assets/3307ff38-c44c-4f92-bbca-b517dd8a86b8" />
+![Supplier Scorecard](screenshots/page2_supplier_scorecard.png
 )
 
 ### Page 3 — Delay & Logistics Analysis
-![Delay & Logistics](<img width="962" height="542" alt="image" src="https://github.com/user-attachments/assets/68a6c0d3-4d46-473f-a78c-e130df8318e0" />
+![Delay & Logistics](screenshots/page3_delay_logistics.png
 )
 
 ### Page 4 — Risk & Defects Analysis
-![Risk & Defects](<img width="964" height="536" alt="image" src="https://github.com/user-attachments/assets/bbf1a25a-1ca9-4959-9e77-9bdfe927f030" />
+![Risk & Defects](screenshots/page4_risk_defects.png
 )
 
 ---
